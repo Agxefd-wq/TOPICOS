@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1787446662 source:c:\users\agustin\documents\codigos_topicos\unidad_1\main.c
+	"main.h"
+
+1787446561 source:c:\users\agustin\documents\codigos_topicos\unidad_1\biblioteca\matematicas.c
+	"matematicas.h"
+
+1787446349 c:\users\agustin\documents\codigos_topicos\unidad_1\biblioteca\matematicas.h
+
+1787254720 c:\users\agustin\documents\codigos_topicos\unidad_1\main.h
+	<stdio.h>
+	<stdlib.h>
+	"BIBLIOTECA/matematicas.h"
+
