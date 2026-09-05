@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1788571923 source:c:\users\agustin\documents\codigos_topicos\unidad_2\main.c
+	"main.h"
+
+1788565733 c:\users\agustin\documents\codigos_topicos\unidad_2\main.h
+	<stdio.h>
+	<stdlib.h>
+	"BIBLIOTECA/vectores.h"
+	"BIBLIOTECA/cadenas.h"
+
+1788569659 c:\users\agustin\documents\codigos_topicos\unidad_2\biblioteca\vectores.h
+
+1788569917 source:c:\users\agustin\documents\codigos_topicos\unidad_2\biblioteca\vectores.c
+	"vectores.h"
+
+1788572258 source:c:\users\agustin\documents\codigos_topicos\unidad_2\biblioteca\cadenas.c
+	"cadenas.h"
+
+1788572511 c:\users\agustin\documents\codigos_topicos\unidad_2\biblioteca\cadenas.h
+
